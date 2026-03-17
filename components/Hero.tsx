@@ -25,7 +25,7 @@ export default function Hero() {
         playsInline
         preload="metadata"
       >
-        <source src="/videos/hero-skyline.mp4" type="video/mp4" />
+        <source src="videos/hero-skyline.mp4" type="video/mp4" />
       </video>
 
       <div className="absolute inset-0 bg-brand-dark/45" />
