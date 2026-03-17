@@ -54,7 +54,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-lg md:text-xl text-brand-text/90 mb-10 max-w-3xl mx-auto leading-relaxed">
-            Afrateq builds and operates sovereign AI systems for African enterprises — combining local inference infrastructure,
+            Afrateq builds and operates sovereign AI systems for Namibian enterprises — combining local inference infrastructure,
             private or hybrid model deployment, agent orchestration, and sector-specific workflows inside trusted environments.
           </p>
 

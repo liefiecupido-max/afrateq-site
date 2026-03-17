@@ -32,7 +32,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-20">
           <Link href="/" className="flex items-center gap-2">
             <Image
-              src="/images/logo-dark.jpg"
+              src="images/logo-dark.jpg"
               alt="Afrateq"
               width={48}
               height={48}
