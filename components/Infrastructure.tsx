@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { Server, Cpu, Shield, Zap, MapPin, Building2 } from 'lucide-react';
 
 const specs = [
-  { icon: Cpu, label: 'NVIDIA DGX Spark', detail: 'Dedicated Blackwell-class hardware per client' },
+  { icon: Cpu, label: 'Dedicated Client Infrastructure', detail: 'Private, isolated AI environments provisioned per client' },
   { icon: Server, label: 'Isolated Sovereignty', detail: 'Turnkey physical isolation for every tenant' },
   { icon: Shield, label: 'Enterprise Security', detail: 'Hardware root-of-trust and secure boot' },
   { icon: Zap, label: 'Office-Quiet Operation', detail: 'Premium silent cooling for flexible deployment' },
@@ -32,7 +32,7 @@ export default function Infrastructure() {
             viewport={{ once: true }}
             className="text-3xl md:text-4xl font-display font-bold text-white mt-3 mb-4"
           >
-            Sovereign AI on DGX Spark
+            Sovereign AI Infrastructure
           </motion.h2>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
@@ -41,7 +41,7 @@ export default function Infrastructure() {
             transition={{ delay: 0.1 }}
             className="text-lg text-brand-muted max-w-2xl mx-auto"
           >
-            One dedicated DGX Spark per client. Total hardware isolation, Blackwell-class performance, and \"Office-Quiet\" deployment.
+            Dedicated client environments with private deployment, strong isolation, and enterprise-grade operating standards inside Namibia.
           </motion.p>
         </div>
 

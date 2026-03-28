@@ -7,8 +7,8 @@ const services = [
   {
     icon: Cpu,
     title: 'Local Inference Infrastructure',
-    description: 'GPU-backed infrastructure designed for organizations that want advanced AI capability inside a local, controlled environment.',
-    features: ['Private GPU capacity', 'Dedicated or shared deployment options', 'Inference endpoints', 'Operational support'],
+    description: 'Private infrastructure designed for organizations that want advanced AI capability inside a local, controlled environment.',
+    features: ['Private compute capacity', 'Dedicated or shared deployment options', 'Inference endpoints', 'Operational support'],
     accent: 'from-brand-gold/20 to-brand-gold/5',
     iconBg: 'bg-brand-gold/10',
     iconColor: 'text-brand-gold',

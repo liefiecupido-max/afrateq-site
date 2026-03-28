@@ -22,7 +22,7 @@ export default function CTASection() {
             Ready to Build with Sovereign AI?
           </h2>
           <p className="text-lg text-brand-muted mb-10 max-w-xl mx-auto">
-            Whether you need raw GPU compute or a fully managed AI solution, 
+            Whether you need private AI infrastructure or a fully managed AI solution, 
             let&apos;s discuss how Afrateq can power your organisation.
           </p>
           <div className="flex flex-wrap justify-center gap-4">

@@ -3,7 +3,7 @@
 import { motion } from 'framer-motion';
 
 const stats = [
-  { value: 'GPU', label: 'Enterprise Accelerators' },
+  { value: 'Local', label: 'AI Runtime Environments' },
   { value: '100%', label: 'Data Stays in Namibia' },
   { value: '<5ms', label: 'Local Network Latency' },
   { value: '24/7', label: 'Enterprise Support' },
