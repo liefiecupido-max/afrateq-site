@@ -75,7 +75,6 @@ export default function Infrastructure() {
             enterprise-grade hosting with redundant power, cooling, and connectivity.
           </p>
           <div className="flex flex-wrap justify-center gap-6 text-sm">
-            <span className="bg-white/5 px-4 py-2 rounded-lg text-brand-text">ISO 27001 Compliant</span>
             <span className="bg-white/5 px-4 py-2 rounded-lg text-brand-text">99.98% Uptime Target</span>
             <span className="bg-white/5 px-4 py-2 rounded-lg text-brand-text">24/7 Operations</span>
             <span className="bg-white/5 px-4 py-2 rounded-lg text-brand-text">Physical Security</span>
