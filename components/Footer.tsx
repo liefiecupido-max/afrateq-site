@@ -57,7 +57,7 @@ export default function Footer() {
 
         <div className="mt-10 pt-6 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-3">
           <p className="text-brand-muted text-xs">
-            © {new Date().getFullYear()} Afrateq (Pty) Ltd. All rights reserved.
+            © 2023 Afrateq (Pty) Ltd. All rights reserved.
           </p>
           <p className="text-brand-muted text-xs">
             Proudly Namibian 🇳🇦
